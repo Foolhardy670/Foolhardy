@@ -1,0 +1,109 @@
+body{
+    background-color:  
+    #B8E0D2;
+    display: flex;
+   
+   
+ }
+  
+ .box{
+    color: #0B132B;
+    background-color: #D6EADF;
+    width: 50%;
+    height: 50%;
+   
+    border-radius: 10px;
+    padding-left: 8%;
+    padding-top: 8%;
+    padding-bottom: 0%;
+   
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+   
+    margin: auto;
+   
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+   
+    padding-bottom: 150px;
+    padding-right: 50px;
+    padding-top: 10px;
+  
+ }
+  
+ button{
+   
+    display: inline;
+    margin-top: 30px;
+    font-family: monaco;
+    font-weight: bold;
+    font-style: italic;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  
+ .Calculate{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 20px;
+    border: 2px solid #AC92A6;
+    margin-left: 30px;
+    margin-top: 0%;
+   
+ }
+  
+ .Clear{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: 2px solid #AC92A6;
+    border-radius: 20px;
+    margin-left: 30px;
+   
+ }
+  
+ input{
+    border-radius: 5px;
+    border: 1px solid #AC92A6;
+    width: 35%;
+    padding-top: 5px;
+    padding-right: 10px;
+    font-family: monaco;
+    font-weight: bold;
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+    margin: 10px;
+ }
+  
+
+ label {
+    font-family: monaco;
+    
+    font-style: italic;
+    display: inline-block;
+        width: 150px;
+        text-align: right;
+ }
+  
+ button:hover{
+    color: white;
+    background-color: #AC92A6;
+    cursor: pointer;
+   
+ }
+
+ p{
+    font-family: monaco;
+    font-size: small;
+ }
+
+ h3{
+    font-family: monaco;
+    font-size: medium;
+ }
+
+  
+ 
